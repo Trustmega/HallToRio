@@ -1,5 +1,6 @@
 /* program for the arduino that converts the digital signals from the hall effect sensor to an analog value between 0 to 5V
 Projektarbete i elektroteknik VT-2016
+Uppsala University
 Victor Bloetjes
 */
 
